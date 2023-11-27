@@ -59,7 +59,7 @@ body{		 color: purple;
 				--h2-font : 3rem;
 				--p-font  : 1.5rem;}
 
-		span { color:var(--main-color); }
+		span { color: #FFA500; }
 
 
 		header{position: fixed;
@@ -70,7 +70,7 @@ body{		 color: purple;
 			   display: flex;
 			   justify-content: space-between;
 			   align-items: center;
-			   backdrop-filter: blur(8px);
+			   backdrop-filter: blur(5px);
 
 			}
 
@@ -163,4 +163,8 @@ div.gallery2 img {
 div.desc {
   padding: 15px;
   text-align: center;}
+i {
+    margin: 5px;
+    color: #FFE10E;
+}
 

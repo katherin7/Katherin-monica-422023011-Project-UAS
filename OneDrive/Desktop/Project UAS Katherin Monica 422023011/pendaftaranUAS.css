@@ -1,12 +1,12 @@
-		body{color: #341FF0;
-			 background-image: url(https://wallpapers.com/images/hd/plain-pink-background-dfir8ykl64nt66pd.jpg) ;
+		body{color: #FF5733 ;
+        background-image: url(https://wallpapers.com/images/hd/plain-pink-background-dfir8ykl64nt66pd.jpg) ;  
 			 background-size: cover;
 			 height: 100%;
 			 width: 100%;
 
 			 }
 		
-		h1{color: rebeccapurple;
+		h1{ padding-top: 20px;
 			font-size: 45;
 			font: Times New Roman;}
 		form{font-size: 16;
@@ -16,22 +16,21 @@
 	
 		
 		p{font-size: 30;
-			  color: green;}
-		p1{ font-size: 45; 
+			  color: ;}
+		footer{ font-size: 45; 
 			color: blue;
-      padding-top: 30px;}
+      padding-top: 70px;}
 
     label{text-align: left;
           font-size: 10pt;
-          font-family: Times New Roman;
-          letter-spacing:0 }
+          font-family: Times New Roman;          letter-spacing:0 }
 		#card {
   				background: url(https://i.pinimg.com/originals/63/f5/b4/63f5b4163eced922ffacb38632296967.jpg);
 				background-repeat: no-repeat;
 			    background-size: cover;
 			  border-radius: 8px;
 			  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
-			  height: 700px;
+			  height: 900px;
 			  margin: 6rem auto 8.1rem auto;
 			  width: 600px;
 			}
